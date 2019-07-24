@@ -1,6 +1,6 @@
 # convnet-course
 
-Repozytorium jest częścią kursu 'Deep Learning w języku Python - Konwolucyjne Sieci Neuronowe' dostępnego na platformie Udemy.com
+Repozytorium jest częścią kursu (Deep Learning w języku Python - Konwolucyjne Sieci Neuronowe)[https://www.udemy.com/deep-learning-w-jezyku-python/] dostępnego na platformie Udemy.com
 
 Stephen Hawking powiedział kiedyś: "whatever you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn".  Te słowa jakże znamiennie wybrzmiewają w dzisiejszych czasach. Nie ulega wątpliwości, że przyszłość zależeć będzie w dużej mierze od postępu technologicznego i ludzi, którzy będą w stanie ten postęp kreować. Jak pokazują dane, utrzymujące się ogromne zapotrzebowanie na specjalistów w sektorze technologii powoduje, że zarobki w branży także są bardzo satysfakcjonujące. 
 
