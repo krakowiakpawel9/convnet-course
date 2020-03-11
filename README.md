@@ -2,9 +2,9 @@
 ## Kurs: Deep Learning w języku Python - Konwolucyjne Sieci Neuronowe (8.5h) 
 Repozytorium jest częścią kursu **Deep Learning w języku Python - Konwolucyjne Sieci Neuronowe - 2020 (8.5h)** dostępnym na platformie:
 * [e-smartdata.org](https://e-smartdata.org/):
-  * :point_right: [Deep Learning w języku Python - Konwolucyjne Sieci Neuronowe - 2020 (8.5h)](https://e-smartdata.teachable.com/p/wprowadzenie-do-data-science-w-jezyku-python-pandas)
+  * :point_right: [Deep Learning w języku Python - Konwolucyjne Sieci Neuronowe - 2020 (8.5h)](https://e-smartdata.teachable.com/p/deep-learning-w-jezyku-python-konwolucyjne-sieci-neuronowe)
 * Udemy.com:
-  * :point_right: [Deep Learning w języku Python - Konwolucyjne Sieci Neuronowe - 2020 (8.5h)](https://www.udemy.com/course/wprowadzenie-data-science/?referralCode=D85D646D30D785FD5277)
+  * :point_right: [Deep Learning w języku Python - Konwolucyjne Sieci Neuronowe - 2020 (8.5h)](https://www.udemy.com/course/deep-learning-w-jezyku-python/?referralCode=24567C4A18A3F17E0B47)
   
 ---
 ### REKOMENDOWANE ŚCIEŻKI UCZENIA
